@@ -210,7 +210,7 @@
         <img src="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg" alt="トンピンのアイコン" class="avatar">
         <h1>トンピンの投資道</h1>
         <p>17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
-        <a href="https://works.do/56L3EJ9" target="_blank" class="cta-button">LINEで友達追加</a>
+        <a href="https://works.do/GZ7IQal">LINEで友達追加</a>
       </div>
     </section>
 
@@ -237,7 +237,7 @@
     <section class="cta-section">
       <h2>トンピンから学ぼう！</h2>
       <p>短線取引、题材株攻略、逆勢操作…トンピンの戦略であなたの投資を次のレベルへ！</p>
-      <a href="https://line.me/ti/p/rFJYaPcDsW" target="_blank" class="cta-button">LINEで友達追加</a>
+      <a href="https://works.do/GZ7IQal">LINEで友達追加</a>
       <a href="https://x.com/Tonpin1234" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
     </section>
 
